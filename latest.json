@@ -1,9 +1,9 @@
 {
-  "version": "1.1.4",
-  "build": "20261031-021831",
-  "size": 193409,
-  "sha256": "776369178abfeb83317343f868f2a0cc1a923b9a9b911ff98c03053e29d279dc",
-  "notes": "画质条显示实际发送码率",
-  "at": "2026-10-30T18:18:31.237Z",
+  "version": "1.1.5",
+  "build": "20261031-022248",
+  "size": 193471,
+  "sha256": "7966c9c49b2ca43bae027b959ea08126a311bcaa60250a8de16608ba2522d26c",
+  "notes": "修复：未报告聚焦的观众被误降画质",
+  "at": "2026-10-30T18:22:48.700Z",
   "url": "https://raw.githubusercontent.com/q2975122686-lang/friendvoice-update/main/app.asar"
 }
