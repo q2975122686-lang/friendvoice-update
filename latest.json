@@ -1,9 +1,8 @@
 {
-  "version": "1.1.20",
-  "build": "20261031-051636",
-  "size": 213519,
-  "sha256": "b36f45539d3aa2ad4046fe3c712dd6b4ba21181c65720dafa344a1f1a1c632c0",
-  "notes": "星语品牌升级 + 公开房间大厅",
-  "at": "2026-10-30T21:16:36.634Z",
-  "url": "https://raw.githubusercontent.com/q2975122686-lang/friendvoice-update/main/app.asar"
+  "version": "1.1.26",
+  "build": "20261031-054027",
+  "size": 247542,
+  "sha256": "79ddd8d64c378b12a1e9ea817868f0a8ae451f3b50384ab454ec3f3b96c6f8f6",
+  "notes": "NN 式房间布局 + 深色一体标题栏 + 界面厚重感美化",
+  "at": "2026-10-30T21:40:27.934Z"
 }
