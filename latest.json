@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
-  "build": "20261030-235257",
-  "size": 153974,
-  "sha256": "7ea739f1df4331f3c0f3c97825013045cd71cf6e9d72a5b0cb50d6303d5381fd",
+  "build": "20261031-000857",
+  "size": 155186,
+  "sha256": "3aa40d2642e3440a73107d8ec6ca21440053f66ee0c3678866b1a06641f66ba2",
   "notes": "",
-  "at": "2026-10-30T15:52:57.981Z",
+  "at": "2026-10-30T16:08:57.882Z",
   "url": "https://raw.githubusercontent.com/q2975122686-lang/friendvoice-update/main/app.asar"
 }
