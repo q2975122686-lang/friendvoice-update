@@ -1,9 +1,9 @@
 {
-  "version": "1.1.1",
-  "build": "20261031-012212",
-  "size": 187961,
-  "sha256": "bf32fcb7e9ef4cd0106c74a57450c1599a96e04da58cdfdf1570c58b2dd8cd2f",
-  "notes": "版本号自动递增机制上线",
-  "at": "2026-10-30T17:22:12.894Z",
+  "version": "1.1.2",
+  "build": "20261031-013431",
+  "size": 189937,
+  "sha256": "39b57c2c6e80de6cf709510d6506bff65638bfc5c46c10c97b50e129c920fd90",
+  "notes": "缩略条改静态快照，更省性能更清晰",
+  "at": "2026-10-30T17:34:31.361Z",
   "url": "https://raw.githubusercontent.com/q2975122686-lang/friendvoice-update/main/app.asar"
 }
