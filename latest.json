@@ -1,9 +1,9 @@
 {
-  "version": "1.1.10",
-  "build": "20261031-045348",
-  "size": 199148,
-  "sha256": "d0f752711e8042269bfba5d9783a52b0e85c0a11c1eb755c6feb150086ed63d1",
-  "notes": "启动时序修复：先完整播放启动画面，再显示主窗口",
-  "at": "2026-10-30T20:53:48.444Z",
+  "version": "1.1.18",
+  "build": "20261031-050440",
+  "size": 207723,
+  "sha256": "d9e6bd4201b45639ca032b240f83d5209fd947c6bb82d1c63236fd08ee06c324",
+  "notes": "启动画面完整版：行星动画+自定义图片+严格时序",
+  "at": "2026-10-30T21:04:40.671Z",
   "url": "https://raw.githubusercontent.com/q2975122686-lang/friendvoice-update/main/app.asar"
 }
