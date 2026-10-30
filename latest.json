@@ -1,9 +1,9 @@
 {
-  "version": "1.1.9",
-  "build": "20261031-045333",
-  "size": 199146,
-  "sha256": "53cce7743a876e02d3763942079cd58623c9d0ba83459fbc0e075e818a96629a",
+  "version": "1.1.10",
+  "build": "20261031-045348",
+  "size": 199148,
+  "sha256": "d0f752711e8042269bfba5d9783a52b0e85c0a11c1eb755c6feb150086ed63d1",
   "notes": "启动时序修复：先完整播放启动画面，再显示主窗口",
-  "at": "2026-10-30T20:53:33.347Z",
+  "at": "2026-10-30T20:53:48.444Z",
   "url": "https://raw.githubusercontent.com/q2975122686-lang/friendvoice-update/main/app.asar"
 }
