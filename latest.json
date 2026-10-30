@@ -1,9 +1,9 @@
 {
   "version": "1.1.0",
-  "build": "20261031-010057",
-  "size": 179798,
-  "sha256": "cc5f60bf6b52a3f420802f183407505722e666afe0a5400d410818d99d9641f5",
-  "notes": "1.1.0：精修UI/聚焦共享/自动重连/双源更新",
-  "at": "2026-10-30T17:00:57.552Z",
+  "build": "20261031-010821",
+  "size": 184063,
+  "sha256": "caa2525e3bd8c87cc18648cfaca917d3983a0d0f2a3b95329870a89c24cbf447",
+  "notes": "房间历史一键回填 / 进出提示音（可关）",
+  "at": "2026-10-30T17:08:21.124Z",
   "url": "https://raw.githubusercontent.com/q2975122686-lang/friendvoice-update/main/app.asar"
 }
