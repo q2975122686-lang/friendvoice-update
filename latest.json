@@ -1,9 +1,9 @@
 {
-  "version": "1.1.0",
-  "build": "20261031-011819",
+  "version": "1.1.1",
+  "build": "20261031-012212",
   "size": 187961,
-  "sha256": "2c8ff5b74c2bcba7618572533926793f4584bfe0256f9a53976bb1393154e762",
-  "notes": "登录页右侧显示最近房间卡，点击直接进房",
-  "at": "2026-10-30T17:18:19.162Z",
+  "sha256": "bf32fcb7e9ef4cd0106c74a57450c1599a96e04da58cdfdf1570c58b2dd8cd2f",
+  "notes": "版本号自动递增机制上线",
+  "at": "2026-10-30T17:22:12.894Z",
   "url": "https://raw.githubusercontent.com/q2975122686-lang/friendvoice-update/main/app.asar"
 }
