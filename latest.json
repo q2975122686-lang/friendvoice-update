@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
-  "build": "20261031-005306",
-  "size": 179554,
-  "sha256": "636780dcc513d3868b9a958218461574cfcbe8daf2a8b325b2bf05497d1870cd",
-  "notes": "共享聚焦模式：同时只看一个人，点击切换",
-  "at": "2026-10-30T16:53:06.280Z",
+  "version": "1.1.0",
+  "build": "20261031-005808",
+  "size": 179534,
+  "sha256": "1407d5ce1ed691d5d354a951c4ef5895ee0eeefc0d803475ad8ca9fdac1cd4d0",
+  "notes": "1.1.0：全新精修 UI / 共享聚焦模式 / 掉线自动重连 / GitHub 双源更新",
+  "at": "2026-10-30T16:58:08.065Z",
   "url": "https://raw.githubusercontent.com/q2975122686-lang/friendvoice-update/main/app.asar"
 }
