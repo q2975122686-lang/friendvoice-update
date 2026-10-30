@@ -1,9 +1,9 @@
 {
-  "version": "1.1.7",
-  "build": "20261031-044735",
-  "size": 198574,
-  "sha256": "2b17c15c94844953971f03ebdbc1a70afc5ae5abf7d2719bdac26ecaa494f3bc",
-  "notes": "启动画面修复：动画完整播放、窗口正常关闭、不再被主窗口遮挡",
-  "at": "2026-10-30T20:47:35.932Z",
+  "version": "1.1.8",
+  "build": "20261031-045047",
+  "size": 198626,
+  "sha256": "e7ddd465c88adef077a43a039df911f7cd17e4ea04928711ac6b1637e2ad3a38",
+  "notes": "启动画面淡出修复：直接渐隐露出主窗口，不再黑屏",
+  "at": "2026-10-30T20:50:47.506Z",
   "url": "https://raw.githubusercontent.com/q2975122686-lang/friendvoice-update/main/app.asar"
 }
