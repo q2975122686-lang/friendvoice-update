@@ -1,9 +1,9 @@
 {
-  "version": "1.1.18",
-  "build": "20261031-050440",
-  "size": 207723,
-  "sha256": "d9e6bd4201b45639ca032b240f83d5209fd947c6bb82d1c63236fd08ee06c324",
-  "notes": "启动画面完整版：行星动画+自定义图片+严格时序",
-  "at": "2026-10-30T21:04:40.671Z",
+  "version": "1.1.20",
+  "build": "20261031-051636",
+  "size": 213519,
+  "sha256": "b36f45539d3aa2ad4046fe3c712dd6b4ba21181c65720dafa344a1f1a1c632c0",
+  "notes": "星语品牌升级 + 公开房间大厅",
+  "at": "2026-10-30T21:16:36.634Z",
   "url": "https://raw.githubusercontent.com/q2975122686-lang/friendvoice-update/main/app.asar"
 }
