@@ -1,9 +1,9 @@
 {
-  "version": "1.1.6",
-  "build": "20261031-044145",
-  "size": 198228,
-  "sha256": "4706dd8c5fe8400faad382d41d9e727d4285ba44c36a37b39f19939185f9ed26",
-  "notes": "新增动态启动画面，可自定义图片",
-  "at": "2026-10-30T20:41:45.373Z",
+  "version": "1.1.7",
+  "build": "20261031-044735",
+  "size": 198574,
+  "sha256": "2b17c15c94844953971f03ebdbc1a70afc5ae5abf7d2719bdac26ecaa494f3bc",
+  "notes": "启动画面修复：动画完整播放、窗口正常关闭、不再被主窗口遮挡",
+  "at": "2026-10-30T20:47:35.932Z",
   "url": "https://raw.githubusercontent.com/q2975122686-lang/friendvoice-update/main/app.asar"
 }
